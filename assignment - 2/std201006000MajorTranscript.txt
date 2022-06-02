@@ -1,0 +1,63 @@
+Name: Ibrahim Ahmed Nemer         stdID: 201006000
+        College: College1         Department: C1Department1
+        Major: C1D1MajorBS1         Minor: C1D1MinorBS1
+        Level: U         Number of terms: 8
+        ======================================================
+            ************      Term 1     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA1    		CourseA1     			3    		75
+			CA2    		CourseA2     			3    		77
+			Major Average = 25    		Overal Average = 76
+            ======================================================
+            ************      Term 2     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA11    		CourseA11     			3    		78
+			CA12    		CourseA12     			3    		81
+			Major Average = 26    		Overal Average = 80
+            ======================================================
+            ************      Term 3     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA21    		CourseA21     			3    		82
+			CA22    		CourseA22     			3    		82
+			Major Average = 27    		Overal Average = 82
+            ======================================================
+            ************      Term 4     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA31    		CourseA31     			3    		83
+			CA32    		CourseA32     			3    		79
+			Major Average = 27    		Overal Average = 81
+            ======================================================
+            ************      Term 5     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA41    		CourseA41     			3    		81
+			CA42    		CourseA42     			3    		83
+			Major Average = 27    		Overal Average = 82
+            ======================================================
+            ************      Term 6     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA51    		CourseA51     			3    		79
+			CA52    		CourseA52     			3    		95
+			Major Average = 29    		Overal Average = 87
+            ======================================================
+            ************      Term 7     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA61    		CourseA61     			3    		81
+			CA62    		CourseA62     			3    		83
+			Major Average = 27    		Overal Average = 82
+            ======================================================
+            ************      Term 8     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA72    		CourseA72     			3    		78
+			Major Average = 26    		Overal Average = 78
+            ======================================================
+            ************End of Transcript for Level(U)  ************
+            ======================================================
+        

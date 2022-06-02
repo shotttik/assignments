@@ -1,0 +1,71 @@
+Name: Ali Mohamamd Hadi         stdID: 201007000
+        College: College2         Department: C2Department1
+        Major: C2D1MajorBS1         Minor: C2D1MinorBS1
+        Level: U         Number of terms: 7
+        ======================================================
+            ************      Term 1     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CC1    		CourseC1     			3    		90
+			CC6    		CourseC6     			4    		90
+			CC2    		CourseC2     			3    		91
+			Major Average = 30    	Minor Average = 22
+            			Term Average = 39    		Overall Average = 90
+            ======================================================
+            ************      Term 2     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CC11    		CourseC11     			3    		92
+			CC16    		CourseC16     			4    		90
+			CC12    		CourseC12     			3    		90
+			Major Average = 30    	Minor Average = 22
+            			Term Average = 39    		Overall Average = 91
+            ======================================================
+            ************      Term 3     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CC21    		CourseC21     			3    		90
+			CC26    		CourseC26     			4    		91
+			CC22    		CourseC22     			3    		92
+			Major Average = 30    	Minor Average = 23
+            			Term Average = 39    		Overall Average = 91
+            ======================================================
+            ************      Term 4     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CC31    		CourseC31     			3    		93
+			CC36    		CourseC36     			4    		90
+			CC32    		CourseC32     			3    		90
+			Major Average = 30    	Minor Average = 22
+            			Term Average = 39    		Overall Average = 91
+            ======================================================
+            ************      Term 5     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CC41    		CourseC41     			3    		85
+			CC46    		CourseC46     			4    		96
+			CC42    		CourseC42     			3    		87
+			Major Average = 29    	Minor Average = 24
+            			Term Average = 38    		Overall Average = 89
+            ======================================================
+            ************      Term 6     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CC51    		CourseC51     			3    		88
+			CC56    		CourseC56     			3    		90
+			CC52    		CourseC52     			3    		90
+			Major Average = 30    	Minor Average = 30
+            			Term Average = 38    		Overall Average = 89
+            ======================================================
+            ************      Term 7     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CC61    		CourseC61     			3    		91
+			CC66    		CourseC66     			3    		92
+			CC62    		CourseC62     			3    		93
+			Major Average = 31    	Minor Average = 31
+            			Term Average = 39    		Overall Average = 92
+            ======================================================
+            ************End of Transcript for Level(U)  ************
+            ======================================================
+        

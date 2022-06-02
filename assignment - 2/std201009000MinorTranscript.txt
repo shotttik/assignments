@@ -1,0 +1,117 @@
+Name: Mohammad Ibrahim Ali         stdID: 201009000
+        College: College4         Department: C4Department2
+        Major: C4D2MajorM1         Minor: C4D2MinorM1
+        Level: G         Number of terms: 3
+        ======================================================
+            ************      Term 1     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CS6    		CourseS6     			3    		89
+			CE6    		CourseE6     			4    		66
+			Minor Average = 22    		Overal Average = 78
+            ======================================================
+            ************      Term 2     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CS16    		CourseS16     			3    		82
+			CE16    		CourseE16     			4    		69
+			Minor Average = 22    		Overal Average = 76
+            ======================================================
+            ************      Term 3     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CS26    		CourseS26     			3    		84
+			CE26    		CourseE26     			4    		81
+			Minor Average = 24    		Overal Average = 82
+            ======================================================
+            ************      Term 4     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE36    		CourseE36     			4    		84
+			Minor Average = 21    		Overal Average = 84
+            ======================================================
+            ************      Term 5     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE46    		CourseE46     			4    		90
+			Minor Average = 22    		Overal Average = 90
+            ======================================================
+            ************      Term 6     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE56    		CourseE56     			3    		87
+			Minor Average = 29    		Overal Average = 87
+            ======================================================
+            ************      Term 7     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE66    		CourseE66     			3    		84
+			Minor Average = 28    		Overal Average = 84
+            ======================================================
+            ************      Term 8     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE76    		CourseE76     			3    		86
+			Minor Average = 29    		Overal Average = 86
+            ======================================================
+            ************End of Transcript for Level(G)  ************
+            ======================================================
+        Name: Mohammad Ibrahim Ali         stdID: 201009000
+        College: College4         Department: C4Department2
+        Major: C4D2MajorBS1         Minor: C4D2MinorBS1
+        Level: U         Number of terms: 8
+        ======================================================
+            ************      Term 1     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CS6    		CourseS6     			3    		89
+			CE6    		CourseE6     			4    		66
+			Minor Average = 22    		Overal Average = 78
+            ======================================================
+            ************      Term 2     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CS16    		CourseS16     			3    		82
+			CE16    		CourseE16     			4    		69
+			Minor Average = 22    		Overal Average = 76
+            ======================================================
+            ************      Term 3     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CS26    		CourseS26     			3    		84
+			CE26    		CourseE26     			4    		81
+			Minor Average = 24    		Overal Average = 82
+            ======================================================
+            ************      Term 4     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE36    		CourseE36     			4    		84
+			Minor Average = 21    		Overal Average = 84
+            ======================================================
+            ************      Term 5     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE46    		CourseE46     			4    		90
+			Minor Average = 22    		Overal Average = 90
+            ======================================================
+            ************      Term 6     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE56    		CourseE56     			3    		87
+			Minor Average = 29    		Overal Average = 87
+            ======================================================
+            ************      Term 7     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE66    		CourseE66     			3    		84
+			Minor Average = 28    		Overal Average = 84
+            ======================================================
+            ************      Term 8     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE76    		CourseE76     			3    		86
+			Minor Average = 29    		Overal Average = 86
+            ======================================================
+            ************End of Transcript for Level(U)  ************
+            ======================================================
+        

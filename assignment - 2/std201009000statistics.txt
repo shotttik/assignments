@@ -1,0 +1,30 @@
+======================================================
+        ************      Graduate(M1) Level     ************
+        ======================================================
+        Overal Avarage (major and minor) for all terms:86,
+        Average (major and minor) of each term:29
+        
+	Term 1: 88
+	Term 2: 86
+	Term 3: 84
+        Maximum grade(s) and in which term(s):Term - 2, Grade- 91. 
+        Minimum grade(s) and in which term(s):Term - 2, Grade- 82.  
+        Do you have any repeated course(s)?No,
+        ======================================================
+        ************      Graduate(BS1) Level     ************
+        ======================================================
+        Overal Avarage (major and minor) for all terms:80,
+        Average (major and minor) of each term:25
+        
+	Term 1: 66
+	Term 2: 76
+	Term 3: 81
+	Term 4: 76
+	Term 5: 85
+	Term 6: 89
+	Term 7: 86
+	Term 8: 86
+        Maximum grade(s) and in which term(s):Term - 6, Grade- 95. 
+        Minimum grade(s) and in which term(s):Term - 4, Grade- 60.  
+        Do you have any repeated course(s)?Yes, CourseE32,
+        

@@ -1,0 +1,72 @@
+Name: Ahmed Ali Mohammad         stdID: 201008000
+        College: College3         Department: C3Department1
+        Major: C3D1MajorM1         Minor: C3D1MinorM1
+        Level: G         Number of terms: 4
+        ======================================================
+            ************      Term 1     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CQ1    		CourseQ1     			3    		80
+			CQ6    		CourseQ6     			3    		81
+			Major Average = 27    	Minor Average = 27
+            			Term Average = 40    		Overall Average = 80
+            ======================================================
+            ************      Term 2     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CQ11    		CourseQ11     			3    		82
+			CQ16    		CourseQ16     			3    		83
+			Major Average = 27    	Minor Average = 28
+            			Term Average = 41    		Overall Average = 82
+            ======================================================
+            ************      Term 3     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CQ21    		CourseQ21     			3    		78
+			CQ26    		CourseQ26     			3    		79
+			Major Average = 26    	Minor Average = 26
+            			Term Average = 39    		Overall Average = 78
+            ======================================================
+            ************      Term 4     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CQ31    		CourseQ31     			3    		90
+			CQ36    		CourseQ36     			3    		81
+			CQ38    		CourseQ38     			3    		82
+			Major Average = 30    	Minor Average = 27
+            			Term Average = 63    		Overall Average = 84
+            ======================================================
+            ************End of Transcript for Level(G)  ************
+            ======================================================
+        Name: Ahmed Ali Mohammad         stdID: 201008000
+        College: College1         Department: C1Department1
+        Major: C1D1MajorM2         Minor: C1D1MinorM2
+        Level: G         Number of terms: 3
+        ======================================================
+            ************      Term 1     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CR1    		CourseR1     			3    		86
+			CR6    		CourseR6     			3    		87
+			Major Average = 29    	Minor Average = 29
+            			Term Average = 58    		Overall Average = 86
+            ======================================================
+            ************      Term 2     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CR11    		CourseR11     			3    		95
+			CR16    		CourseR16     			3    		89
+			Major Average = 32    	Minor Average = 30
+            			Term Average = 61    		Overall Average = 92
+            ======================================================
+            ************      Term 3     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CR21    		CourseR21     			3    		90
+			CR26    		CourseR26     			3    		90
+			Major Average = 30    	Minor Average = 30
+            			Term Average = 60    		Overall Average = 90
+            ======================================================
+            ************End of Transcript for Level(G)  ************
+            ======================================================
+        

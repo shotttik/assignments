@@ -1,0 +1,131 @@
+Name: Mohammad Ibrahim Ali         stdID: 201009000
+        College: College4         Department: C4Department2
+        Major: C4D2MajorM1         Minor: C4D2MinorM1
+        Level: G         Number of terms: 3
+        ======================================================
+            ************      Term 1     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CS1    		CourseS1     			3    		88
+			CE1    		CourseE1     			3    		65
+			CE2    		CourseE2     			3    		67
+			Major Average = 24    		Overal Average = 73
+            ======================================================
+            ************      Term 2     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CS11    		CourseS11     			3    		91
+			CE11    		CourseE11     			3    		68
+			CE12    		CourseE12     			3    		90
+			Major Average = 28    		Overal Average = 83
+            ======================================================
+            ************      Term 3     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CS21    		CourseS21     			3    		83
+			CE21    		CourseE21     			3    		80
+			CE22    		CourseE22     			3    		82
+			Major Average = 27    		Overal Average = 82
+            ======================================================
+            ************      Term 4     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE31    		CourseE31     			3    		83
+			CE32    		CourseE32     			3    		60
+			Major Average = 24    		Overal Average = 72
+            ======================================================
+            ************      Term 5     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE41    		CourseE41     			3    		80
+			CE42    		CourseE42     			3    		85
+			Major Average = 28    		Overal Average = 82
+            ======================================================
+            ************      Term 6     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE51    		CourseE51     			3    		86
+			CE32    		CourseE32     			3    		95
+			Major Average = 30    		Overal Average = 90
+            ======================================================
+            ************      Term 7     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE61    		CourseE61     			3    		89
+			CE62    		CourseE62     			3    		85
+			Major Average = 29    		Overal Average = 87
+            ======================================================
+            ************      Term 8     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE72    		CourseE72     			3    		87
+			Major Average = 29    		Overal Average = 87
+            ======================================================
+            ************End of Transcript for Level(G)  ************
+            ======================================================
+        Name: Mohammad Ibrahim Ali         stdID: 201009000
+        College: College4         Department: C4Department2
+        Major: C4D2MajorBS1         Minor: C4D2MinorBS1
+        Level: U         Number of terms: 8
+        ======================================================
+            ************      Term 1     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CS1    		CourseS1     			3    		88
+			CE1    		CourseE1     			3    		65
+			CE2    		CourseE2     			3    		67
+			Major Average = 24    		Overal Average = 73
+            ======================================================
+            ************      Term 2     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CS11    		CourseS11     			3    		91
+			CE11    		CourseE11     			3    		68
+			CE12    		CourseE12     			3    		90
+			Major Average = 28    		Overal Average = 83
+            ======================================================
+            ************      Term 3     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CS21    		CourseS21     			3    		83
+			CE21    		CourseE21     			3    		80
+			CE22    		CourseE22     			3    		82
+			Major Average = 27    		Overal Average = 82
+            ======================================================
+            ************      Term 4     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE31    		CourseE31     			3    		83
+			CE32    		CourseE32     			3    		60
+			Major Average = 24    		Overal Average = 72
+            ======================================================
+            ************      Term 5     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE41    		CourseE41     			3    		80
+			CE42    		CourseE42     			3    		85
+			Major Average = 28    		Overal Average = 82
+            ======================================================
+            ************      Term 6     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE51    		CourseE51     			3    		86
+			CE32    		CourseE32     			3    		95
+			Major Average = 30    		Overal Average = 90
+            ======================================================
+            ************      Term 7     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE61    		CourseE61     			3    		89
+			CE62    		CourseE62     			3    		85
+			Major Average = 29    		Overal Average = 87
+            ======================================================
+            ************      Term 8     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CE72    		CourseE72     			3    		87
+			Major Average = 29    		Overal Average = 87
+            ======================================================
+            ************End of Transcript for Level(U)  ************
+            ======================================================
+        

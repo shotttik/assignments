@@ -1,0 +1,56 @@
+Name: Ibrahim Ahmed Nemer         stdID: 201006000
+        College: College1         Department: C1Department1
+        Major: C1D1MajorBS1         Minor: C1D1MinorBS1
+        Level: U         Number of terms: 8
+        ======================================================
+            ************      Term 1     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA6    		CourseA6     			4    		76
+			Minor Average = 19    		Overal Average = 76
+            ======================================================
+            ************      Term 2     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA16    		CourseA16     			4    		60
+			Minor Average = 15    		Overal Average = 60
+            ======================================================
+            ************      Term 3     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA26    		CourseA26     			4    		81
+			Minor Average = 20    		Overal Average = 81
+            ======================================================
+            ************      Term 4     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA36    		CourseA36     			4    		78
+			Minor Average = 20    		Overal Average = 78
+            ======================================================
+            ************      Term 5     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA46    		CourseA46     			4    		82
+			Minor Average = 20    		Overal Average = 82
+            ======================================================
+            ************      Term 6     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA56    		CourseA56     			3    		76
+			Minor Average = 25    		Overal Average = 76
+            ======================================================
+            ************      Term 7     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA66    		CourseA66     			3    		82
+			Minor Average = 27    		Overal Average = 82
+            ======================================================
+            ************      Term 8     ************
+            ======================================================
+            course id   course name     credit hours    grade
+			CA16    		CourseA16     			4    		90
+			Minor Average = 22    		Overal Average = 90
+            ======================================================
+            ************End of Transcript for Level(U)  ************
+            ======================================================
+        
